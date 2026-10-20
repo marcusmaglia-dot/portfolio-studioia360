@@ -1,0 +1,16 @@
+# Dependências e caches
+node_modules/
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+*.local
+
+# Logs e arquivos temporários
+*.log
+__pycache__/
+*.pyc
+
+# IDE e Sistema Operacional
+.DS_Store
+.idea/
+.vscode/
